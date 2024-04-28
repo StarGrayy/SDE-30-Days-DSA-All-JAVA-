@@ -1,5 +1,3 @@
-package Day1;
-
 public class BuyAndSell {
     public static int maxProfit(int[] prices) {
         int ans=0;

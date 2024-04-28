@@ -1,4 +1,3 @@
-package Day1;
 public class Kadane {
     public static int maxSubArray(int[] nums) {
         int sum=0;
